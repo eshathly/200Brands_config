@@ -192,9 +192,9 @@
         {"index":2,
           "title": "Electronics",
           "categoriesList": {
-            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1NzMwMTczNTUyNw==": "https://cdn.shopify.com/s/files/1/0013/7255/3331/files/BLUETOOTH_HEADSETS.png",
-            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1NzQ1NDEzOTQ5NQ==": "https://cdn.shopify.com/s/files/1/0013/7255/3331/files/CHARGING_CABLES.png",
-            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1NzM4OTY1MjA3MQ==": "https://cdn.shopify.com/s/files/1/0013/7255/3331/files/PHONE_CASES.png"
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1NzMwMTczNTUyNw==": "https://raw.githubusercontent.com/eshathly/200Brands_config/main/electornics/BLUETOOTH_HEADSETS.png",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1NzQ1NDEzOTQ5NQ==": "https://raw.githubusercontent.com/eshathly/200Brands_config/main/electornics/CHARGING_CABLES.png",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE1NzM4OTY1MjA3MQ==": "https://raw.githubusercontent.com/eshathly/200Brands_config/main/electornics/PHONE_CASES.png"
             }
         },
         {"index":3,
