@@ -119,7 +119,7 @@
 }
   ],
   "Setting":{
-    "MainColor":"#FFD479",
+    "MainColor":"#FCDFE1",
     "ProductListLayout":"list",
     "StickyHeader":true,
     "ProductDetail":"simpleType"
