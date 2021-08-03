@@ -5,7 +5,7 @@
     "height":1,
     "type":null
 },
-  "HorizonLayout":[
+"HorizonLayout":[
     {
       "layout":"logo",
       "showMenu":false,
@@ -118,13 +118,13 @@
 ]
 }
   ],
-  "Setting":{
-    "MainColor":"#FE8798",
+"Setting":{
+    "MainColor":"#FE6C63",
     "ProductListLayout":"list",
     "StickyHeader":true,
     "ProductDetail":"simpleType"
   },
-  "TabBar":[
+"TabBar":[
     {
       "layout":"home",
       "icon":"assets/icons/tabs/icon-home.png",
@@ -240,7 +240,7 @@
       "background":"https://cdn.shopify.com/s/files/1/0013/7255/3331/files/Untitled-1_8ec77812-a579-469b-8b05-edb497e582b4_140x@2x.png"
     }
   ],
-  "DefaultCurrency": {
+"DefaultCurrency": {
     "symbol": "LE",
     "decimalDigits": 0,
     "symbolBeforeTheNumber": true,
@@ -249,7 +249,7 @@
     "currencyImage" : "icons/flags/png/eg.png",
     "smallestUnitRate": 1
   },
-  "Currencies": [
+"Currencies": [
     {
       "symbol": "LE",
       "decimalDigits": 0,
@@ -305,8 +305,8 @@
       "smallestUnitRate": 1
     }
   ],
-  "LogoUrl" : "https://cdn.shopify.com/s/files/1/0013/7255/3331/files/Untitled-1_8ec77812-a579-469b-8b05-edb497e582b4_140x@2x.png",
-  "CurrencyRates": {
+"LogoUrl" : "https://cdn.shopify.com/s/files/1/0013/7255/3331/files/Untitled-1_8ec77812-a579-469b-8b05-edb497e582b4_140x@2x.png",
+"CurrencyRates": {
     "Egyption Pound": 1.0,
     "USD": 0.0638,
     "JAPAN YUNS": 0.0697,
@@ -314,7 +314,7 @@
     "SAUDI RIALS": 0.2416,
     "JORDAN DINAR": 0.0459
   },
-    "FilterTags" :{
+"FilterTags" :{
         "genericTags":{
             "Product type" : "Jumpsuit,Active,Active Top,basics,Battery,BODY LOTION,Body Spray,Bottom,Casual,Casual Shirt,Cloth,Hat,Headphones,iPhone,iPhone 11,iPhone 11 Pro,iPhone 11 Pro Max,iPhone 6+,iPhone 7,iPhone 7+\/8+,iPhone X,iPhone XR,iPhone XS,iPhone XS Max,Kids Jacket,Kids Shorts,Kids Sleepwear,Memory Card,Jeans, Pants,Jacket,Jeans Jacket,kimino,kimono,shoes,Sport Pants,Suit,Tie,Mic,Dress Shirt,t-shirts,Sport,skirt,Scarf,rain boots,Perfume,phone,phoneholder,Power Bank,Power Case,swim,Swim Bottom,Swim Shorts,swim top,swimsuit,Underwear,Watch,Waist Bag,Wallet,Vest,Chemise,Case,Blazer,bag",
             "Brand" : "19 cooperm,14th & Union,200Brands,Adam Levine,Adidas,ADRIANNA PAPELL,Rebecca Minkoff,Betsey Johnson,Linea Donatella,BETSY & ADAM,us polo,Reebok,KENDALL AND KYLIE,Ralph Lauren,Anker,Anne Klein,Apple,Ari Exchange,Bickley + Mitchell,Bebe,Bright Fuchsia,Brooks Brothers,Buffalo David Bitton,Calvin Klein,Carla Berroti,City Studio,CK,Coca Cola,David Taylor,Dickies,DieHard,Diesel ,disney,DKNY,Gucci,Guess,GYPSIES & MOONDUST,Z By Zella,Zachary Prell,VERONICA BEARD,Victoria Secret,Victory,Vince,Vince Camuto,Vintage 1946,WALLIN & BROS,Wander By Hottotties,Timberland,Tinseltown,Titanfall,Tom Ford,Tommy Bahama,Tommy Hilfiger,Tommy John,Under Armour,UNIONBAY,U.S. POLO ASSN,Ted Baker,Coach",
