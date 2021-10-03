@@ -244,13 +244,13 @@
     "data": [
       {
         "title": "Welcome to 200Brands Store",
-        "image": "assets/images/fogg-delivery-1.png",
+        "image": "assets/images/fogg-uploading-1.png",
         "desc": "100% Original and New products for you."
       },
       {
-        "title": "Let's Get Started",
-        "image": "https://cdn.shopify.com/s/files/1/0013/7255/3331/files/Untitled-1_8ec77812-a579-469b-8b05-edb497e582b4_140x@2x.png",
-        "desc": "Waiting no more, let's see what we get!"
+        "title": "Let's Start Shopping",
+        "image": "assets/images/fogg-delivery-1.png",
+        "desc": "Waiting no more, see what we get!"
       }
     ]
   },
