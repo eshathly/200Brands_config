@@ -124,6 +124,7 @@
     "StickyHeader":true,
     "ProductDetail":"simpleType"
   },
+"ReviewState":"0",
 "TabBar":[
     {
       "layout":"home",
