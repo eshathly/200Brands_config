@@ -219,20 +219,6 @@
       "background":"https://raw.githubusercontent.com/eshathly/200Brands_config/main/homepage_images/logo.png"
     }
   ],
-"OnBoarding": {
-    "data": [
-      {
-        "title": "Welcome to 200Brands Store",
-        "image": "assets/images/fogg-uploading-1.png",
-        "desc": "100% Original and New products for you."
-      },
-      {
-        "title": "Let's Start Shopping",
-        "image": "assets/images/fogg-delivery-1.png",
-        "desc": "Waiting no more, see what we get!"
-      }
-    ]
-  },
 "DefaultCurrency": {
     "symbol": "LE",
     "decimalDigits": 0,
