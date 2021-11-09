@@ -219,11 +219,8 @@
       "background":"https://raw.githubusercontent.com/eshathly/200Brands_config/main/homepage_images/logo.png"
     }
   ],
-"smartChat" = [
-  {
-    "app": "https://m.me/200Brands", "iconColor":Colors.blueAccent, "tag":"facebook",
-    "iconData": FontAwesomeIcons.facebookMessenger
-  },
+"smartChat" : [
+    {"app": "https://m.me/200Brands", "iconColor":Colors.blueAccent, "tag":"facebook","iconData": FontAwesomeIcons.facebookMessenger},
   {"app": "https://wa.me/201204388890", "iconData": FontAwesomeIcons.whatsapp, "iconColor":Colors.green, "tag":"whatsapp"},
   {
   "app" : "https://www.instagram.com/200brands_egypt/","iconData" : FontAwesomeIcons.instagramSquare, "iconColor":Colors.white, "tag":"instagram"
