@@ -220,12 +220,12 @@
     }
   ],
 "smartChat" : [
-    {"app": "https://m.me/200Brands", "iconColor":"Colors.blueAccent", "tag":"facebook","iconData": "FontAwesomeIcons.facebookMessenger"},
-  {"app": "https://wa.me/201204388890", "iconData": "FontAwesomeIcons.whatsapp", "iconColor":"Colors.green", "tag":"whatsapp"},
+    {"app": "https://m.me/200Brands", "iconColor":"Colors.blueAccent", "tag":"facebook","iconData": 0xf39f},
+  {"app": "https://wa.me/201204388890", "iconData": 0xf232, "iconColor":"Colors.green", "tag":"whatsapp"},
   {
-  "app" : "https://www.instagram.com/200brands_egypt/","iconData" : "FontAwesomeIcons.instagramSquare", "iconColor":"Colors.white", "tag":"instagram"
+  "app" : "https://www.instagram.com/200brands_egypt/","iconData" : 0xe055, "iconColor":"Colors.white", "tag":"instagram"
   },
-  {"app": "tel:+201221127090", "iconData": "FontAwesomeIcons.phone", "iconColor":"Colors.green", "tag":"phone"}
+  {"app": "tel:+201221127090", "iconData": 0xf095, "iconColor":"Colors.green", "tag":"phone"}
 ],
 "DefaultCurrency": {
     "symbol": "LE",
