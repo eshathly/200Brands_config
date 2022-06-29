@@ -179,9 +179,9 @@
             "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzQyNjMzNDk0NA==": "https://raw.githubusercontent.com/eshathly/200Brands_config/main/men/bottoms.png",
             "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzQyNzc3NjczNg==": "https://raw.githubusercontent.com/eshathly/200Brands_config/main/men/shoes.png",
             "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzQyNzM1MDc1Mg==": "https://raw.githubusercontent.com/eshathly/200Brands_config/main/men/watches.png",
-            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzQyNzY0NTY2NA==": "https://raw.githubusercontent.com/eshathly/200Brands_config/main/men/activewear.png",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzQyNzY0NTY2NA==": "https://raw.githubusercontent.com/eshathly/200Brands_config/main/men/men_underware.png",
             "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzQyNzg3NTA0MA==": "https://raw.githubusercontent.com/eshathly/200Brands_config/main/men/belts.png",
-            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzQyNjkyNDc2OA==": "https://raw.githubusercontent.com/eshathly/200Brands_config/main/men/wallets.png",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzQyNjkyNDc2OA==": "https://raw.githubusercontent.com/eshathly/200Brands_config/main/men/men_bags.png",
             "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzg4OTMxNDAxNg==": "https://raw.githubusercontent.com/eshathly/200Brands_config/main/men/perfum.png"
             }
         },
@@ -203,7 +203,9 @@
             "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzUwNzYzMjM1Mg==": "https://cdn.shopify.com/s/files/1/0013/7255/3331/files/Donna_karan_new_york_dec0dae6-f5c5-4f38-a352-2ef3b3812b07.jpg",
             "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzUwNzkyNzI2NA==": "https://cdn.shopify.com/s/files/1/0013/7255/3331/files/champion.jpg",
             "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzUwODUxNzA4OA==": "https://cdn.shopify.com/s/files/1/0013/7255/3331/files/nautica.jpg",
-            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzUwNzgyODk2MA==": "https://cdn.shopify.com/s/files/1/0013/7255/3331/files/32_degrees.jpg"
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzUwNzgyODk2MA==": "https://cdn.shopify.com/s/files/1/0013/7255/3331/files/32_degrees.jpg",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzUwODEyMzg3Mg==":"https://cdn.shopify.com/s/files/1/0013/7255/3331/files/Bufflo.jpg",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzUwODI4NzcxMg==":"https://cdn.shopify.com/s/files/1/0013/7255/3331/files/columbia.jpg"
             }
         }
       ],
@@ -359,7 +361,9 @@
             "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzUwNzYzMjM1Mg==" : "New collection 2022",
             "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzUwNzkyNzI2NA==" : "New collection 2022",
             "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzUwODUxNzA4OA==" : "New collection 2022",
-            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzUwNzgyODk2MA==" : "New collection 2022"
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzUwNzgyODk2MA==" : "New collection 2022",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzUwODEyMzg3Mg==" : "New collection 2022",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzUwODI4NzcxMg==" : "New collection 2022"
         }
 }
 }
