@@ -246,20 +246,6 @@
     "currencyImage" : "icons/flags/png/eg.png",
     "smallestUnitRate": 1
   },
-    "OnBoarding": {
-    "data": [
-      {
-        "title": "Welcome to 200Brands Store",
-        "image": "assets/images/fogg-uploading-1.png",
-        "desc": "100% Original and New products for you."
-      },
-      {
-        "title": "Let's Start Shopping",
-        "image": "assets/images/fogg-delivery-1.png",
-        "desc": "Waiting no more, see what we get!"
-      }
-    ]
-  },
 "Currencies": [
     {
       "symbol": "LE",
@@ -316,7 +302,6 @@
       "smallestUnitRate": 1
     }
   ],
-"LogoUrl" : "https://raw.githubusercontent.com/eshathly/200Brands_config/main/homepage_images/logo.png",
 "CurrencyRates": {
     "Egyption Pound": 1.0,
     "USD": 0.0639,
@@ -325,6 +310,21 @@
     "SAUDI RIALS": 0.2390,
     "JORDAN DINAR": 0.0459
   },
+"OnBoarding": {
+    "data": [
+      {
+        "title": "Welcome to 200Brands Store",
+        "image": "assets/images/fogg-uploading-1.png",
+        "desc": "100% Original and New products for you."
+      },
+      {
+        "title": "Let's Start Shopping",
+        "image": "assets/images/fogg-delivery-1.png",
+        "desc": "Waiting no more, see what we get!"
+      }
+    ]
+  },
+"LogoUrl" : "https://raw.githubusercontent.com/eshathly/200Brands_config/main/homepage_images/logo.png",
 "FilterTags" :{
         "genericTags":{
             "Product type" : "Jumpsuit,Active,Active Top,basics,Battery,BODY LOTION,Body Spray,Bottom,Casual,Casual Shirt,Cloth,Hat,Headphones,iPhone,iPhone 11,iPhone 11 Pro,iPhone 11 Pro Max,iPhone 6+,iPhone 7,iPhone 7+\/8+,iPhone X,iPhone XR,iPhone XS,iPhone XS Max,Kids Jacket,Kids Shorts,Kids Sleepwear,Memory Card,Jeans, Pants,Jacket,Jeans Jacket,kimino,kimono,shoes,Sport Pants,Suit,Tie,Mic,Dress Shirt,t-shirts,Sport,skirt,Scarf,rain boots,Perfume,phone,phoneholder,Power Bank,Power Case,swim,Swim Bottom,Swim Shorts,swim top,swimsuit,Underwear,Watch,Waist Bag,Wallet,Vest,Chemise,Case,Blazer,bag",
@@ -344,7 +344,7 @@
             "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzQyNTU4MTI4MA==" : "Bodysuit,Bra,Ideology,Push-Up,Slimmer,tights",
             "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzQyNTQ1MDIwOA==" : "Nylon,Multi Color,phoneholder,Tri-Fold",
             "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzg4OTI0ODQ4MA==" : "Girl,Spray",
-            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzQyNTgxMDY1Ng==" : "long sleeve,Basic Editions",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzQyNTgxMDY1Ng==" : "long sleeve,Basic Editions,short sleeve",
             "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzQyNjMzNDk0NA==" : "Basic Editions,Nat Nast",
             "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzQyNzc3NjczNg==" : "boots",
             "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzQyNzM1MDc1Mg==" : "Analogue,Patient Leather",
