@@ -154,7 +154,8 @@
         "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzQyNTU4MTI4MA==",
         "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzQyNTQ1MDIwOA==",
         "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzQyNjkyNDc2OA==",
-        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzQyNzc3NjczNg=="
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzQyNzc3NjczNg==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwODE2NjMwMTkyMA=="
       ],
       "subCategories": [
         {"index":0,
@@ -177,6 +178,7 @@
           "categoriesList": {
             "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzQyNTgxMDY1Ng==": "https://raw.githubusercontent.com/eshathly/200Brands_config/main/men/tops.png",
             "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzQyNjMzNDk0NA==": "https://raw.githubusercontent.com/eshathly/200Brands_config/main/men/bottoms.png",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwODE2NjMwMTkyMA==": "https://raw.githubusercontent.com/eshathly/200Brands_config/main/men/activewear.png",
             "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzQyNzc3NjczNg==": "https://raw.githubusercontent.com/eshathly/200Brands_config/main/men/shoes.png",
             "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzQyNzM1MDc1Mg==": "https://raw.githubusercontent.com/eshathly/200Brands_config/main/men/watches.png",
             "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzQyNzY0NTY2NA==": "https://raw.githubusercontent.com/eshathly/200Brands_config/main/men/men_underware.png",
@@ -363,7 +365,8 @@
             "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzUwODUxNzA4OA==" : "New collection 2022",
             "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzUwNzgyODk2MA==" : "New collection 2022",
             "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzUwODEyMzg3Mg==" : "New collection 2022",
-            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzUwODI4NzcxMg==" : "New collection 2022"
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwNzUwODI4NzcxMg==" : "New collection 2022",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQwODE2NjMwMTkyMA==" : "sweet pants"
         }
 }
 }
